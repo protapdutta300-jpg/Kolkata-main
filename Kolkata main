@@ -14,12 +14,21 @@ https://tvsen4.aynaott.com/n64PH4YL/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="logo",Jalsha movies HD
 http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
 
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="logo",Jalsha movies HD
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63524
+
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="logo",Jalsha movies HD
 http://premiumtvs.space/live/jen12345/Jen54321/23304.ts
 
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="logo",Colors bangla HD
 http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8
+
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="logo",Colors bangla HD
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63526
 
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="logo",Colors bangla HD
@@ -145,6 +154,11 @@ http://115.187.41.216:8080/hls/amardigital/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="logo",Sun bangla
 http://103.180.212.191:3500/live/1669.m3u8
+
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="logo",Sun bangla HD
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/126098
+
 
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="logo",Sun bangla
@@ -420,6 +434,12 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="logo",Stristy tv
 http://103.180.212.191:3500/live/1561.m3u8
+
+
+
+
+
+
 
 
 
